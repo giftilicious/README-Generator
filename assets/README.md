@@ -1,9 +1,9 @@
-# README Generator
+# Weather Dashboard
   [![License](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT)
 
      
   ## Description
-  It's an app that automatically generations a readme file.
+  An application that predicts the weather based on user inputs.
   ## Table of Contents
   * [Installation](#Installation)
   * [Usage](#Usage)
@@ -12,15 +12,15 @@
   * [Tests](#Tests)
   * [Questions](#Questions)
   ## Installation
-  You have to run it.
+  There are no instructions to install.
   ## Usage
-  There is none.
+  None.
   ## License
     MIT
   ## Contributing
-  Anyone can contribute.
+  Contribution however you like; just don't copy.
   ## Tests
-  run test
+  run weather
   ## Questions
-  If you have any questions about the repo, open an issue or contact me directly at repo@repo.com. You can find more of my work at Repogal.
+  If you have any questions about the repo, open an issue or contact me directly at tbell@email.com. You can find more of my work at [tinkerbell](https://github.com/tinkerbell).
   
