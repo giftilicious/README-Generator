@@ -19,7 +19,7 @@ const questions = [
   {
     type: 'input',
     message: 'What is the installation instruction?',
-    name: 'instruction',
+    name: 'installation',
   },
   {
     type: 'input',
@@ -37,10 +37,10 @@ const questions = [
     name: 'tests',
   },
   {
-    type: 'checkbox',
+    type: 'list',
     message: 'Please select the licence for your project:',
-    name: 'licence',
-    choices: ['Artistice License', 'Creative Commons', 'GNU Public License', 'MIT']
+    name: 'license',
+    choices: ['Artistice License', 'Creative Commons', 'GNU Public License', 'MIT', 'None']
   },
   {
     type: 'input',
